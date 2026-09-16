@@ -1,8 +1,10 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <style name="Theme.LankapuraRoleplay" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Theme.LankapuraRoleplay" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="android:fontFamily">sans</item>
         <item name="android:windowLightStatusBar">false</item>
-        <item name="android:statusBarColor">@color/blue_bg</item>
-        <item name="android:navigationBarColor">@color/blue_bg</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="colorAccent">@color/blue</item>
     </style>
 </resources>

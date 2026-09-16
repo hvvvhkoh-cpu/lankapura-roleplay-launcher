@@ -1,7 +1,13 @@
 <resources>
-    <color name="blue_bg">#07111F</color>
-    <color name="blue_card">#0D1E33</color>
-    <color name="electric_blue">#1687FF</color>
+    <color name="bg">#070E18</color>
+    <color name="panel">#0D1A2A</color>
+    <color name="panel2">#101F33</color>
+    <color name="blue">#12A8FF</color>
+    <color name="blue_dark">#0874D1</color>
+    <color name="cyan">#18D8FF</color>
     <color name="white">#FFFFFF</color>
-    <color name="muted">#9BB0C7</color>
+    <color name="muted">#9CB0C7</color>
+    <color name="green">#16E58B</color>
+    <color name="purple">#8C5CFF</color>
+    <color name="orange">#FFAA2B</color>
 </resources>
